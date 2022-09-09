@@ -3,7 +3,7 @@
     public static int ConvertStringtoint(string value)
     {
         if(int.TryParse(value, out int value)) return number;
-        throw new System.Exception("Input score!!");
+        else throw new System.Exception("Input score!!");
     }
     public static string ConvertScoreTograde(int score)
     {
