@@ -1,0 +1,5 @@
+D:\github\Grade8\obj\Debug\net6.0\Grade8.csproj.AssemblyReference.cache
+D:\github\Grade8\obj\Debug\net6.0\Grade8.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\Grade8\obj\Debug\net6.0\Grade8.AssemblyInfoInputs.cache
+D:\github\Grade8\obj\Debug\net6.0\Grade8.AssemblyInfo.cs
+D:\github\Grade8\obj\Debug\net6.0\Grade8.csproj.CoreCompileInputs.cache
